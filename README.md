@@ -1,1 +1,1 @@
-# DataDcience-assignment
+# ICT Assignments
